@@ -1,0 +1,2 @@
+# Test script
+print("hello")
